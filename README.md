@@ -12,4 +12,4 @@ Repository with data and figures
 - [Fig. 5: PO Raman for BZS](./figure_05/README.md)
 - [Fig. 6: Unpolarized Raman for BZS at 300K](./figure_06/README.md)
 - [Fig. 7: 2nd order estimates for BZS](./figure_07/README.md)
-- Fig. 8: Comparison 2PDOS vs. cDOS
+- [Fig. 8: Comparison 2PDOS vs. cDOS](./figure_08/README.md)
