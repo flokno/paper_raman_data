@@ -2,16 +2,11 @@
 .ipynb_checkpoints/
 __pycache__
 _dev
+.vscode
 
 *.bak
-
-# large files
-*.h5
-*.hdf5
-*.pdf
 
 *.tar
 *.tgz
 *.gz
 
-*.nc

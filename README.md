@@ -5,7 +5,7 @@ Repository with data and figures
 
 ## Figures
 
-- Fig. 1: PO Raman for GaN 0001
+- [Fig. 1: PO Raman for GaN 0001](./figure_01/README.md)
 - Fig. 2: PO Raman for GaN 10-10
 - Fig. 3: Phonon frequencies and linewidths for GaN 0001
 - Fig. 4: Phonon frequencies and linewidths for GaN 10-10
