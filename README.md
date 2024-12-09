@@ -10,7 +10,6 @@ Repository with data and figures
 - [Fig. 3: Phonon frequencies and linewidths for GaN 0001](./figure_03/README.md)
 - [Fig. 4: Phonon frequencies and linewidths for GaN 10-10](./figure_04/README.md)
 - [Fig. 5: PO Raman for BZS](./figure_05/README.md)
-- Fig. 6: Unpolarized Raman for BZS at 300K
+- [Fig. 6: Unpolarized Raman for BZS at 300K](./figure_06/README.md)
 - Fig. 7: 2nd order estimates for BZS
 - Fig. 8: Comparison 2PDOS vs. cDOS
-
