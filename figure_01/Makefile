@@ -6,7 +6,6 @@ NOTEBOOK = notebook_plot_po_raman_001.ipynb
 
 $(PLOT_OUTPUT): $(DATA_FILE)
 	jupyter nbconvert --inplace --execute $(NOTEBOOK)
-	clean_jupyter_notebook $(NOTEBOOK)
 	ln -s $(PLOT_OUTPUT) $(PLOT_LINK)
 
 $(DATA_FILE):
