@@ -13,3 +13,16 @@ Repository with data and figures
 - [Fig. 6: Unpolarized Raman for BZS at 300K](./figure_06/README.md)
 - [Fig. 7: 2nd order estimates for BZS](./figure_07/README.md)
 - [Fig. 8: Comparison 2PDOS vs. cDOS](./figure_08/README.md)
+
+## How to run
+
+Plots were created with python3.12 in a `venv` with the dependencies listed in `requirements.txt`
+
+```bash
+python3 -m venv venv
+source activate venv/bin/activate
+
+pip install -r requirements.txt
+```
+
+Then each plot can be created by running `make` in the respective folder.
