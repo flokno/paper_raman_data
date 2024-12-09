@@ -8,6 +8,9 @@ $(PLOT_OUTPUT): $(DATA_FILE)
 	jupyter nbconvert --inplace --execute $(NOTEBOOK)
 	ln -s $(PLOT_OUTPUT) $(PLOT_LINK)
 
+tidy: $(NOTEBOOK)
+	clean_jupyter_notebook $(NOTEBOOK)
+
 $(DATA_FILE):
 	ln -s $(DATA_SOURCE) $(DATA_FILE)
 
