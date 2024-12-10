@@ -70,7 +70,21 @@ https://github.com/flokno/tools.mlff
         - MAE: 0.064 meV/Å³
         - RMSE: 0.089 meV/Å³
 
-    ![image](./.assets/plot_so3krates_gan_test.png)
+### Test errors on full test set
+
+![image](./.assets/plot_so3krates_gan_test.png)
+
+### Test errors for 0K samples
+
+![image](./.assets/plot_so3krates_gan_test_000K.png)
+
+### Test errors for 100K samples
+
+![image](./.assets/plot_so3krates_gan_test_100K.png)
+
+### Test errors for 900K samples
+
+![image](./.assets/plot_so3krates_gan_test_900K.png)
 
 ## Full settings
 
