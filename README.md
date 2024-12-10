@@ -26,3 +26,8 @@ pip install -r requirements.txt
 ```
 
 Then each plot can be created by running `make` in the respective folder.
+
+## Computational details
+
+- [SO3krates ML potential for GaN](./info/SO3krates/README.md)
+
